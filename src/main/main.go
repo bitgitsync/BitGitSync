@@ -17,4 +17,6 @@ func main() {
 		fmt.Println("Version:", APP_VERSION)
 	}
 	fmt.Println("No command line parament,finished.")
+	fmt.Println("test finished")
+
 }
